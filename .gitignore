@@ -1,0 +1,5 @@
+.vscode
+debug.log
+venv
+__pycache__
+.ipynb_checkpoints
